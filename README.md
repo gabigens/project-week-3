@@ -1,6 +1,8 @@
 # project-week-3
 Mini project - Fashion Data
 
+Presentation can be found at: https://www.canva.com/design/DAG2aiY8P-w/6QUpcdXwRbrosKZihAo6Mg/edit
+
 Green Is the New Black?
 How is sustainability performance of fashion brands related to their business growth over the last 5 years?
 
